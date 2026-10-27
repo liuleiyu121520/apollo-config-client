@@ -1,6 +1,6 @@
 # apollo-config-client
 
-[English](./README.md) | **简体中文**
+[English](https://github.com/liuleiyu121520/apollo-config-client/blob/main/README.md) | **简体中文**
 
 Apollo（携程）配置中心 Node.js 客户端，支持 **accesskey 访问密钥签名**
 —— [node-apollo](https://code.aliyun.com/ecarx-web/node-apollo) 的
@@ -26,19 +26,20 @@ npm install apollo-config-client
 
 已经在用 `node-apollo` 的项目只需更换包名——函数名、参数结构完全一致：
 
-```diff
-- const apollo = require('node-apollo');
-+ const apollo = require('apollo-config-client');
+```js
+// 唯一需要改动的地方：require 的包名
+// const apollo = require('node-apollo');
+const apollo = require('apollo-config-client');
 
-  const config = {
-    configServerUrl: 'http://apollo.example.com',
-    appId: 'sample-app',
-    clusterName: 'default',
-    namespaceName: ['application', 'fx.apollo'],
-    // clientIp: '10.0.0.1',   // 可选
-    // releaseKey: '',         // 可选
-  };
-  const result = await apollo.remoteConfigServiceSkipCache(config);
+const config = {
+  configServerUrl: 'http://apollo.example.com',
+  appId: 'sample-app',
+  clusterName: 'default',
+  namespaceName: ['application', 'fx.apollo'],
+  // clientIp: '10.0.0.1',   // 可选
+  // releaseKey: '',         // 可选
+};
+const result = await apollo.remoteConfigServiceSkipCache(config);
 ```
 
 ### 启用 accesskey 签名
@@ -440,9 +441,9 @@ defaultCachePath(input): string                                    // 隔离键�
   2.4.0，Apache-2.0）。
 
 两份上游许可的完整文本与版权声明保留在
-[THIRD-PARTY-NOTICES.md](./THIRD-PARTY-NOTICES.md)；衍生源码文件头部
+[THIRD-PARTY-NOTICES.md](https://github.com/liuleiyu121520/apollo-config-client/blob/main/THIRD-PARTY-NOTICES.md)；衍生源码文件头部
 亦有出处注释。
 
 ## 许可
 
-[MIT](./LICENSE)。上游声明：[THIRD-PARTY-NOTICES.md](./THIRD-PARTY-NOTICES.md)。
+[MIT](https://github.com/liuleiyu121520/apollo-config-client/blob/main/LICENSE)。上游声明：[THIRD-PARTY-NOTICES.md](https://github.com/liuleiyu121520/apollo-config-client/blob/main/THIRD-PARTY-NOTICES.md)。

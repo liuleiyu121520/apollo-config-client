@@ -1,6 +1,6 @@
 # apollo-config-client
 
-**English** | [简体中文](./README.zh-CN.md)
+**English** | [简体中文](https://github.com/liuleiyu121520/apollo-config-client/blob/main/README.zh-CN.md)
 
 Apollo (Ctrip) configuration center client for Node.js with **accesskey
 signature support** — a drop-in replacement for
@@ -29,19 +29,20 @@ npm install apollo-config-client
 If you already use `node-apollo`, changing the package name is enough —
 same function names, same parameter structure:
 
-```diff
-- const apollo = require('node-apollo');
-+ const apollo = require('apollo-config-client');
+```js
+// The only change: the package name in the require line.
+// const apollo = require('node-apollo');
+const apollo = require('apollo-config-client');
 
-  const config = {
-    configServerUrl: 'http://apollo.example.com',
-    appId: 'sample-app',
-    clusterName: 'default',
-    namespaceName: ['application', 'fx.apollo'],
-    // clientIp: '10.0.0.1',   // optional
-    // releaseKey: '',         // optional
-  };
-  const result = await apollo.remoteConfigServiceSkipCache(config);
+const config = {
+  configServerUrl: 'http://apollo.example.com',
+  appId: 'sample-app',
+  clusterName: 'default',
+  namespaceName: ['application', 'fx.apollo'],
+  // clientIp: '10.0.0.1',   // optional
+  // releaseKey: '',         // optional
+};
+const result = await apollo.remoteConfigServiceSkipCache(config);
 ```
 
 ### Enable the accesskey signature
@@ -483,9 +484,9 @@ open-source projects; thanks to their authors:
   (`apollo-core` / `apollo-client` 2.4.0, Apache-2.0).
 
 The complete upstream license texts and copyright notices are preserved
-in [THIRD-PARTY-NOTICES.md](./THIRD-PARTY-NOTICES.md); derivation notes
+in [THIRD-PARTY-NOTICES.md](https://github.com/liuleiyu121520/apollo-config-client/blob/main/THIRD-PARTY-NOTICES.md); derivation notes
 also appear in the headers of the derived source files.
 
 ## License
 
-[MIT](./LICENSE). Upstream notices: [THIRD-PARTY-NOTICES.md](./THIRD-PARTY-NOTICES.md).
+[MIT](https://github.com/liuleiyu121520/apollo-config-client/blob/main/LICENSE). Upstream notices: [THIRD-PARTY-NOTICES.md](https://github.com/liuleiyu121520/apollo-config-client/blob/main/THIRD-PARTY-NOTICES.md).
