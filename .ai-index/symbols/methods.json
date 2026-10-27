@@ -1,0 +1,4957 @@
+[
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMonitor",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getManager",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getRegistry",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigMonitor",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "ConfigFactory",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "create",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "createConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfigFactory",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "reset",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/ConfigService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDescription",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/enums/ConfigSourceType.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloConfigException",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/exceptions/ApolloConfigException.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloConfigStatusCodeException",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/exceptions/ApolloConfigStatusCodeException.java",
+    "kind": "method"
+  },
+  {
+    "name": "getStatusCode",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/exceptions/ApolloConfigStatusCodeException.java",
+    "kind": "method"
+  },
+  {
+    "name": "AbstractConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "addChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "removeChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getIntProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLongProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getShortProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getFloatProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDoubleProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getByteProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBooleanProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getArrayProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getValueAndStoreToCache",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "apply",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getEnumProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDateProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDurationProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getValueFromCache",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "newCache",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "clearConfigCache",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "fireConfigChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "for",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "findMatchedConfigChangeListeners",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "notifyAsync",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "Runnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "run",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "isConfigChangeListenerInterested",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolveInterestedChangedKeys",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "calcPropertyChanges",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "AbstractConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "onRepositoryChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "addChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "removeChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getSourceType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "fireConfigChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "Runnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "run",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "trySync",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "addChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "removeChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "fireRepositoryChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/AbstractConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigMonitorInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "doInit",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigMonitorInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "initializeJmxMonitoring",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigMonitorInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "initializeMetricsEventListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigMonitorInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "initializeMetricsExporter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigMonitorInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "initializeMessageProducerComposite",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigMonitorInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "reset",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigMonitorInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "ConfigServiceLocator",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "initConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCustomizedConfigService",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDeprecatedCustomizedConfigService",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "doSubmitUpdateTask",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "trySubmitUpdateTask",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "tryUpdateConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "schedulePeriodicRefresh",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "Runnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "run",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "tryAcquireForUpdate",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "assembleMetaServiceUrl",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "logConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "logConfigService",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/ConfigServiceLocator.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyFromRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyFromAdditional",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "tryWarnLog",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyNamesFromRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyNamesFromAdditional",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyNames",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getSourceType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "stringPropertyNames",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "onRepositoryChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateAndCalcConfigChanges",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "for",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadFromResource",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultConfigManager",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfigManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfigManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultConfigManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultInjector",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultInjector.java",
+    "kind": "method"
+  },
+  {
+    "name": "getInstance",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultInjector.java",
+    "kind": "method"
+  },
+  {
+    "name": "configure",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultInjector.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultMetaServerProvider",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initMetaServerAddress",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetaServerAddress",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/DefaultMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/Injector.java",
+    "kind": "method"
+  },
+  {
+    "name": "InterestedConfigChangeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/InterestedConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "interestedChangedKeys",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/InterestedConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "JsonConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/JsonConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFileFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/JsonConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "K8sConfigMapConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfigMapKey",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfigMapName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "checkConfigMapName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "setUpstreamRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getSourceType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "sync",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadFromK8sConfigMap",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "trySyncFromUpstream",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateConfigMapProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "onRepositoryChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "persistConfigMap",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/K8sConfigMapConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "LocalFileConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "setLocalCacheDir",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "findLocalCacheDir",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "setUpstreamRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getSourceType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "onRepositoryChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "sync",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "trySyncFromUpstream",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateFileProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "persistLocalCacheFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "checkLocalConfigCacheDir",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "assembleLocalCacheFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/LocalFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "PlainTextConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PlainTextConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getContent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PlainTextConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "hasContent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PlainTextConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "update",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PlainTextConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "PropertiesCompatibleFileConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesCompatibleFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "sync",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesCompatibleFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesCompatibleFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "setUpstreamRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesCompatibleFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getSourceType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesCompatibleFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "onChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesCompatibleFileConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "PropertiesConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "update",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getContent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "doGetContent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "hasContent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFileFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "asProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/PropertiesConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "RemoteConfigLongPollService",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "submit",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "startLongPolling",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "Runnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "run",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "stopLongPollingRefresh",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "doLongPollingRefresh",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "notify",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateNotifications",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateRemoteNotifications",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "assembleNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "assembleLongPollRefreshUrl",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "assembleNotifications",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolveConfigService",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigLongPollService.java",
+    "kind": "method"
+  },
+  {
+    "name": "RemoteConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "setUpstreamRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getSourceType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "schedulePeriodicRefresh",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "Runnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "run",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "sync",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "transformApolloConfigToProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadApolloConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "assembleQueryConfigUrl",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "scheduleLongPollingRefresh",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "onLongPollNotified",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigServices",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "mergeConfigurations",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/RemoteConfigRepository.java",
+    "kind": "method"
+  },
+  {
+    "name": "SimpleConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyNames",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getSourceType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "onRepositoryChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "apply",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/SimpleConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "TxtConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/TxtConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFileFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/TxtConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "XmlConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/XmlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFileFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/XmlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "YamlConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YamlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFileFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YamlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "update",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YamlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "asProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YamlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "tryTransformToProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YamlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "transformToProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YamlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "toProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YamlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "YmlConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YmlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigFileFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/internals/YmlConfigFile.java",
+    "kind": "method"
+  },
+  {
+    "name": "KubernetesManager",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/kubernetes/KubernetesManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "buildConfigMap",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/kubernetes/KubernetesManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "createConfigMap",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/kubernetes/KubernetesManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "key",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/kubernetes/KubernetesManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "checkConfigMapExist",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/kubernetes/KubernetesManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "isWritePod",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/kubernetes/KubernetesManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "ConfigChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOldValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNewValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getChangeType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "setOldValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "setNewValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "setChangeType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "ConfigChangeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "changedKeys",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "interestedChangedKeys",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "isChanged",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "ConfigFileChangeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigFileChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigFileChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigFileChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOldValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigFileChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNewValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigFileChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getChangeType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigFileChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/model/ConfigFileChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getStartupArg",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBootstrapArgs",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigServiceUrl",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAccessKeySecret",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAutoUpdateInjectedSpringProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isBootstrapEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBootstrapNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isBootstrapEagerLoadEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isOverrideSystemProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCacheDir",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCluster",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigService",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getClientMonitorExternalForm",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isClientMonitorEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isClientMonitorJmxEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getClientMonitorExternalExportPeriod",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getClientMonitorExceptionSaveSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloMeta",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetaLatestFreshTime",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isPropertyNamesCacheEnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isPropertyOrderEnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getVersion",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getEnv",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getReleaseKey",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "setReleaseKey",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getUsageCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "incrementUsageCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getFirstLoadTimeSpendInMs",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "setFirstLoadTimeSpendInMs",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLatestUpdateTime",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "setLatestUpdateTime",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getActiveTaskCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getQueueSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCorePoolSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMaximumPoolSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPoolSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getTotalTaskCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCompletedTaskCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLargestPoolSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getQueueRemainingCapacity",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/api/ApolloClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "addApolloClientMonitorEventListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloClientMonitorEventListeners",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "setApolloClientMonitorEventListeners",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "setApolloClientExceptionMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "setApolloClientNamespaceMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "setApolloClientBootstrapArgsMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "setApolloClientThreadPoolMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "setApolloClientMetricsExporter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "getExceptionApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBootstrapArgsApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "getThreadPoolApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetricsExporter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/ApolloClientMonitorContext.java",
+    "kind": "method"
+  },
+  {
+    "name": "getThreadPoolMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/DefaultConfigMonitor.java",
+    "kind": "method"
+  },
+  {
+    "name": "getExceptionMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/DefaultConfigMonitor.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/DefaultConfigMonitor.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBootstrapArgsMonitorApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/DefaultConfigMonitor.java",
+    "kind": "method"
+  },
+  {
+    "name": "getExporterData",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/DefaultConfigMonitor.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloClientMonitorEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "withTag",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getTag",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "putAttachment",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAttachmentValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloClientMonitorEventFactory",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEventFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "getInstance",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEventFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEventFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "publish",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEventPublisher.java",
+    "kind": "method"
+  },
+  {
+    "name": "reset",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/event/ApolloClientMonitorEventPublisher.java",
+    "kind": "method"
+  },
+  {
+    "name": "init",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/AbstractApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "initScheduleMetricsCollectSync",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/AbstractApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateMetricsData",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/AbstractApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "registerSample",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/AbstractApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/ApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetricsReporter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/impl/DefaultApolloClientMetricsExporterFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "findAndInitializeExporter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/impl/DefaultApolloClientMetricsExporterFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "init",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/impl/NullApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "isSupport",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/impl/NullApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "registerOrUpdateCounterSample",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/impl/NullApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "registerOrUpdateGaugeSample",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/impl/NullApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "response",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/exporter/impl/NullApolloClientMetricsExporter.java",
+    "kind": "method"
+  },
+  {
+    "name": "setMBeanServer",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/ApolloClientJmxMBeanRegister.java",
+    "kind": "method"
+  },
+  {
+    "name": "register",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/ApolloClientJmxMBeanRegister.java",
+    "kind": "method"
+  },
+  {
+    "name": "unregister",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/ApolloClientJmxMBeanRegister.java",
+    "kind": "method"
+  },
+  {
+    "name": "getUsageCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "setUsageCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "getFirstLoadTimeSpendInMs",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "setFirstLoadTimeSpendInMs",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLatestUpdateTime",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "setLatestUpdateTime",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "getReleaseKey",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "setReleaseKey",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/jmx/mbean/ApolloClientJmxNamespaceMBean.java",
+    "kind": "method"
+  },
+  {
+    "name": "AbstractApolloClientMonitorEventListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "getName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "isSupported",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "collect",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "isMetricsSampleUpdated",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "export",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "collect0",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "export0",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "createOrUpdateGaugeSample",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "createOrUpdateCounterSample",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "createOrUpdateSample",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "getTags",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/AbstractApolloClientMonitorEventListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultApolloClientBootstrapArgsApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientBootstrapArgsApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "collect0",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientBootstrapArgsApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "putAttachmentValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientBootstrapArgsApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isMetricsSampleUpdated",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientBootstrapArgsApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBootstrapArgs",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientBootstrapArgsApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBootstrapArgsString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientBootstrapArgsApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultApolloClientExceptionApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientExceptionApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloConfigExceptionList",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientExceptionApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getExceptionCountFromStartup",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientExceptionApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "collect0",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientExceptionApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloConfigExceptionDetails",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientExceptionApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultApolloClientNamespaceApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "collect0",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleNormalNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "collectMetrics",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleNamespaceNotFound",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleNamespaceTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleUsageEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleUpdateTimeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleFirstLoadSpendEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleReleaseKeyEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "export0",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceMetrics",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNotFoundNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getTimeoutNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceMetricsString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespacePropertySize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientNamespaceApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultApolloClientThreadPoolApi",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "export0",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "exportThreadPoolMetrics",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "isMetricsSampleUpdated",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getRemoteConfigRepositoryThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAbstractConfigThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAbstractConfigFileThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetricsExporterThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/DefaultApolloClientThreadPoolApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBootstrapArgsString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientBootstrapArgsMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloConfigExceptionList",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientExceptionMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getExceptionCountFromStartup",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientExceptionMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloConfigExceptionDetails",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientExceptionMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceMetrics",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNotFoundNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getTimeoutNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceMetricsString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespacePropertySize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientNamespaceMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getRemoteConfigRepositoryThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAbstractConfigThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAbstractConfigFileThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetricsExporterThreadPoolInfo",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/impl/NullClientThreadPoolMonitorApi.java",
+    "kind": "method"
+  },
+  {
+    "name": "CounterModel",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/CounterModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "create",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/CounterModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "increase",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/CounterModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "getIncreaseValueAndResetZero",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/CounterModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "GaugeModel",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/GaugeModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "create",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/GaugeModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "getName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "setName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "putTag",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "putTags",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "getType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "setType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "getTags",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "getValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "setValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/model/SampleModel.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloClientMessageProducerComposite",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerComposite.java",
+    "kind": "method"
+  },
+  {
+    "name": "logError",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerComposite.java",
+    "kind": "method"
+  },
+  {
+    "name": "logEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerComposite.java",
+    "kind": "method"
+  },
+  {
+    "name": "logMetricsForCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerComposite.java",
+    "kind": "method"
+  },
+  {
+    "name": "newTransaction",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerComposite.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloClientMessageProducerManager",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProducer",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMessageProducerManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "logError",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleTaggedEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "publishErrorEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "publishConfigChangeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "publishMetaServiceEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "publishConfigServiceEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "publishClientVersionEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "publishNamespaceTimeoutEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "publishNamespaceNotFoundEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleClientConfigEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "handleFirstLoadTimeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logMetricsForCount",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "newTransaction",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/tracer/ApolloClientMonitorMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultConfigFactory",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "create",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createConfigFile",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createRepositoryConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createLocalConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createConfigMapConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createRemoteConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "createPropertiesCompatibleFileConfigRepository",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "determineFileFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "trimNamespaceFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultConfigFactoryManager",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactoryManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getFactory",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigFactoryManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultConfigRegistry",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "register",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "getFactory",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/DefaultConfigRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "chooseOneFrom",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/RandomConfigServiceLoadBalancerClient.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spi/RandomConfigServiceLoadBalancerClient.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloAnnotationProcessor",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processField",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processMethod",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processApolloConfig",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processApolloConfigChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processResolveNamespaceValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processApolloJsonValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolvePropertyValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "parseJsonValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "buildGson",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "setEnvironment",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloAnnotationProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "onChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "registerBeanDefinitions",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloConfigRegistrar.java",
+    "kind": "method"
+  },
+  {
+    "name": "setEnvironment",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloConfigRegistrar.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "findAllField",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "findAllMethod",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/ApolloProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "SpringValueProcessor",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/SpringValueProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processField",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/SpringValueProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processMethod",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/SpringValueProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/SpringValueProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "doRegister",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/SpringValueProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processBeanPropertyValues",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/annotation/SpringValueProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloApplicationContextInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "initializeSystemProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloApplicationContextInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "fillSystemPropertyFromEnvironment",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloApplicationContextInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "postProcessEnvironment",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloApplicationContextInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloApplicationContextInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloApplicationContextInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "setOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloApplicationContextInitializer.java",
+    "kind": "method"
+  },
+  {
+    "name": "configPropertySourcesProcessor",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/boot/ApolloAutoConfiguration.java",
+    "kind": "method"
+  },
+  {
+    "name": "CachedCompositePropertySource",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/CachedCompositePropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyNames",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/CachedCompositePropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "addPropertySource",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/CachedCompositePropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "addFirstPropertySource",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/CachedCompositePropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "onChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/CachedCompositePropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "containsProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/ConfigPropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyNames",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/ConfigPropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/ConfigPropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "addChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/ConfigPropertySource.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigPropertySource",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/ConfigPropertySourceFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAllConfigPropertySources",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/ConfigPropertySourceFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "init",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/NamespaceHandler.java",
+    "kind": "method"
+  },
+  {
+    "name": "shouldGenerateId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/NamespaceHandler.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolveNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/NamespaceHandler.java",
+    "kind": "method"
+  },
+  {
+    "name": "doParse",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/NamespaceHandler.java",
+    "kind": "method"
+  },
+  {
+    "name": "addNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "initializePropertySources",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "initializeAutoUpdatePropertiesFeature",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "setEnvironment",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "reset",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "setApplicationEventPublisher",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/config/PropertySourcesProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloConfigChangeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/events/ApolloConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigChangeEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/events/ApolloConfigChangeEvent.java",
+    "kind": "method"
+  },
+  {
+    "name": "AutoUpdateConfigChangeListener",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "onChange",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "for",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateSpringValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolvePropertyValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "parseJsonValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "buildGson",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "testTypeConverterHasConvertIfNecessaryWithFieldParameter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "onApplicationEvent",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/AutoUpdateConfigChangeListener.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolvePropertyValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "evaluateBeanDefinitionString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "extractPlaceholderKeys",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "isNormalizedPlaceholder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "isExpressionWithPlaceholder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "normalizeToPlaceholder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "findPlaceholderEndIndex",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/PlaceholderHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "SpringValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBeanName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPlaceholder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMethodParameter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "isField",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "getField",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "getGenericType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "isJson",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "isTargetBeanValid",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValue.java",
+    "kind": "method"
+  },
+  {
+    "name": "SpringValueDefinition",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueDefinition.java",
+    "kind": "method"
+  },
+  {
+    "name": "getKey",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueDefinition.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPlaceholder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueDefinition.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueDefinition.java",
+    "kind": "method"
+  },
+  {
+    "name": "SpringValueDefinitionProcessor",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueDefinitionProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBeanName2SpringValueDefinitions",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueDefinitionProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "processPropertyValues",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueDefinitionProcessor.java",
+    "kind": "method"
+  },
+  {
+    "name": "register",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "get",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "Runnable",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "run",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "scanAndClean",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/property/SpringValueRegistry.java",
+    "kind": "method"
+  },
+  {
+    "name": "registerBeanDefinitions",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultApolloConfigRegistrarHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultApolloConfigRegistrarHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolveNamespaces",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultApolloConfigRegistrarHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "resolveSecret",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultApolloConfigRegistrarHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "logNamespacePlaceholderNotSupportedMessage",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultApolloConfigRegistrarHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultApolloConfigRegistrarHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "setEnvironment",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultApolloConfigRegistrarHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "processSpringValueDefinition",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultConfigPropertySourcesProcessorHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/spi/DefaultConfigPropertySourcesProcessorHelper.java",
+    "kind": "method"
+  },
+  {
+    "name": "registerBeanDefinitionIfNotExists",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/util/BeanRegistrationUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "ensureBootstrapPropertyPrecedence",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/util/PropertySourcesUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/util/PropertySourcesUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getInjector",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/util/SpringInjector.java",
+    "kind": "method"
+  },
+  {
+    "name": "getInstance",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/util/SpringInjector.java",
+    "kind": "method"
+  },
+  {
+    "name": "configure",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/spring/util/SpringInjector.java",
+    "kind": "method"
+  },
+  {
+    "name": "ConfigUtil",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloLabel",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAccessKeySecret",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDataCenter",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initCluster",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCluster",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloEnv",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLocalIp",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetaServerDomainName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initConnectTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConnectTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initReadTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getReadTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initRefreshInterval",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getRefreshInterval",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getRefreshIntervalTimeUnit",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCustomizedIntegerValue",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initQPS",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDiscoveryQPS",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDiscoveryConnectTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDiscoveryReadTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLoadConfigQPS",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLongPollQPS",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOnErrorRetryInterval",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOnErrorRetryIntervalTimeUnit",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDefaultLocalCacheDir",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCustomizedCacheRoot",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDeprecatedCustomizedCacheRoot",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getK8sNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCacheKubernetesNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isInLocalMode",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isOSWindows",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initMaxConfigCacheSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMaxConfigCacheSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigCacheExpireTime",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigCacheExpireTimeUnit",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initLongPollingInitialDelayInMills",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLongPollingInitialDelayInMills",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initAutoUpdateInjectedSpringProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isAutoUpdateInjectedSpringPropertiesEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initPropertiesOrdered",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isPropertiesOrderEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isPropertyNamesCacheEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isPropertyFileCacheEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isPropertyKubernetesCacheEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isOverrideSystemProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initPropertyNamesCacheEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initPropertyFileCacheEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initOverrideSystemProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initPropertyKubernetesCacheEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initClientMonitorExternalType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMonitorExternalType",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initClientMonitorExternalExportPeriod",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMonitorExternalExportPeriod",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initClientMonitorEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isClientMonitorEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initClientMonitorJmxEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isClientMonitorJmxEnabled",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "initClientMonitorExceptionQueueSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMonitorExceptionQueueSize",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertyBoolean",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ConfigUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "formatLocalDateTime",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/date/DateUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "escapeNamespace",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/escape/EscapeUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "createConfigMapKey",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/escape/EscapeUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "included",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ExceptionUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "while",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/ExceptionUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultPropertiesFactory",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/factory/DefaultPropertiesFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "getPropertiesInstance",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/factory/DefaultPropertiesFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultHttpClient",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/DefaultHttpClient.java",
+    "kind": "method"
+  },
+  {
+    "name": "doGet",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/DefaultHttpClient.java",
+    "kind": "method"
+  },
+  {
+    "name": "apply",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/DefaultHttpClient.java",
+    "kind": "method"
+  },
+  {
+    "name": "doGetWithSerializeFunction",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/DefaultHttpClient.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/DefaultHttpClient.java",
+    "kind": "method"
+  },
+  {
+    "name": "HttpRequest",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "getUrl",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "getHeaders",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "setHeaders",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConnectTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConnectTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "getReadTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "setReadTimeout",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpRequest.java",
+    "kind": "method"
+  },
+  {
+    "name": "HttpResponse",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpResponse.java",
+    "kind": "method"
+  },
+  {
+    "name": "getStatusCode",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpResponse.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBody",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpResponse.java",
+    "kind": "method"
+  },
+  {
+    "name": "HttpUtil",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "doGet",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/http/HttpUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "OrderedProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "put",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "addPropertyName",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "stringPropertyNames",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "keys",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "hasMoreElements",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "nextElement",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "keySet",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "entrySet",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "putAll",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "clear",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "remove",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/OrderedProperties.java",
+    "kind": "method"
+  },
+  {
+    "name": "ParserException",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/parser/ParserException.java",
+    "kind": "method"
+  },
+  {
+    "name": "forDate",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/parser/Parsers.java",
+    "kind": "method"
+  },
+  {
+    "name": "forDuration",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/parser/Parsers.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDateFormat",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/parser/Parsers.java",
+    "kind": "method"
+  },
+  {
+    "name": "parseNumber",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/parser/Parsers.java",
+    "kind": "method"
+  },
+  {
+    "name": "yamlToProperties",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "MatchCallback",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "process",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "createYaml",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "asMap",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "getFlattenedMap",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "buildFlattenedMap",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/util/yaml/YamlParser.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloConfig",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCluster",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getReleaseKey",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigSyncType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigurationChanges",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigurations",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "setAppId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "setCluster",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "setNamespaceName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "setReleaseKey",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfigSyncType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfigurations",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "setConfigurationChanges",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfig.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloConfigNotification",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNamespaceName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNotificationId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "setNamespaceName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMessages",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "setMessages",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "addMessage",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloConfigNotification.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloNotificationMessages",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "put",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "get",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "has",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "isEmpty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDetails",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "setDetails",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "mergeFrom",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "clone",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ApolloNotificationMessages.java",
+    "kind": "method"
+  },
+  {
+    "name": "ConfigurationChange",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ConfigurationChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getKey",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ConfigurationChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getNewValue",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ConfigurationChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getConfigurationChangeType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ConfigurationChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ConfigurationChange.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ServiceDTO.java",
+    "kind": "method"
+  },
+  {
+    "name": "getHomepageUrl",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ServiceDTO.java",
+    "kind": "method"
+  },
+  {
+    "name": "getInstanceId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ServiceDTO.java",
+    "kind": "method"
+  },
+  {
+    "name": "setAppName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ServiceDTO.java",
+    "kind": "method"
+  },
+  {
+    "name": "setHomepageUrl",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ServiceDTO.java",
+    "kind": "method"
+  },
+  {
+    "name": "setInstanceId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ServiceDTO.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/dto/ServiceDTO.java",
+    "kind": "method"
+  },
+  {
+    "name": "getWellFormedName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigFileFormat.java",
+    "kind": "method"
+  },
+  {
+    "name": "fromString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigFileFormat.java",
+    "kind": "method"
+  },
+  {
+    "name": "isValidFormat",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigFileFormat.java",
+    "kind": "method"
+  },
+  {
+    "name": "isPropertiesCompatible",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigFileFormat.java",
+    "kind": "method"
+  },
+  {
+    "name": "getValue",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigFileFormat.java",
+    "kind": "method"
+  },
+  {
+    "name": "fromString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigSyncType.java",
+    "kind": "method"
+  },
+  {
+    "name": "getValue",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigSyncType.java",
+    "kind": "method"
+  },
+  {
+    "name": "fromString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigurationChangeType.java",
+    "kind": "method"
+  },
+  {
+    "name": "transformChangeType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/ConfigurationChangeTypeUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "fromString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/Env.java",
+    "kind": "method"
+  },
+  {
+    "name": "transformEnv",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/EnvUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/enums/EnvUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "LegacyMetaServerProvider",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/internals/LegacyMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/internals/LegacyMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetaServerAddress",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/internals/LegacyMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/internals/LegacyMetaServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDomain",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMetaServerAddress",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "initMetaServerAddress",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "initMetaServerProviders",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "selectMetaServerAddress",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "updateMetaServerAddresses",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "schedulePeriodicRefresh",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "Runnable",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "run",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "reset",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/MetaDomainConsts.java",
+    "kind": "method"
+  },
+  {
+    "name": "ExponentialSchedulePolicy",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/schedule/ExponentialSchedulePolicy.java",
+    "kind": "method"
+  },
+  {
+    "name": "fail",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/schedule/ExponentialSchedulePolicy.java",
+    "kind": "method"
+  },
+  {
+    "name": "success",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/schedule/ExponentialSchedulePolicy.java",
+    "kind": "method"
+  },
+  {
+    "name": "signString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/signature/HmacSha1Utils.java",
+    "kind": "method"
+  },
+  {
+    "name": "signature",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/signature/Signature.java",
+    "kind": "method"
+  },
+  {
+    "name": "buildHttpHeaders",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/signature/Signature.java",
+    "kind": "method"
+  },
+  {
+    "name": "url2PathWithQuery",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/signature/Signature.java",
+    "kind": "method"
+  },
+  {
+    "name": "getThreadGroup",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ApolloThreadFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "create",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ApolloThreadFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "waitAllShutdown",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ApolloThreadFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "satisfy",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ApolloThreadFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "classify",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ApolloThreadFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "ApolloThreadFactory",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ApolloThreadFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "newThread",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ApolloThreadFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "int3",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ByteUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "int2",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ByteUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "int1",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ByteUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "int0",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ByteUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "toHexString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ByteUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ClassLoaderUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLoader",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ClassLoaderUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getClassPath",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ClassLoaderUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "isClassPresent",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ClassLoaderUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "DeferredLogCache",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "debug",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "info",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "warn",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "error",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "add",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "replayTo",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "clear",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "logSize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "logTo",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "getObjects",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLogger",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLevel",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMessage",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "getThrowable",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogCache.java",
+    "kind": "method"
+  },
+  {
+    "name": "enable",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "disable",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "isEnabled",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "replayTo",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "DeferredLogger",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "getName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "isTraceEnabled",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "trace",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "isDebugEnabled",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "debug",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "isInfoEnabled",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "info",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "isWarnEnabled",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "warn",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "isErrorEnabled",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "error",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLogger.java",
+    "kind": "method"
+  },
+  {
+    "name": "DeferredLoggerFactory",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLoggerFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLogger",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeferredLoggerFactory.java",
+    "kind": "method"
+  },
+  {
+    "name": "warn",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/DeprecatedPropertyNotifyUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "getMachineIdentifier",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/MachineUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "createMachineIdentifier",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/MachineUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "pingUrl",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/NetUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "cleanUpConnection",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/NetUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "filterPropertiesComment",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/PropertiesUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/PropertiesUtil.java",
+    "kind": "method"
+  },
+  {
+    "name": "readConfigFile",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ResourceUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadConfigFileFromDefaultSearchLocations",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ResourceUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "for",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ResourceUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "getResourceAsStream",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/ResourceUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "empty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "isContainEmpty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "trimToNull",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "trimToEmpty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "trim",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "equals",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "equalsIgnoreCase",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "startsWith",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "prefix",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "startsWithIgnoreCase",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "String",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "defaultIfBlank",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/core/utils/StringUtils.java",
+    "kind": "method"
+  },
+  {
+    "name": "logError",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logEvent",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logMetricsForCount",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "newTransaction",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "CatTransaction",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatTransaction.java",
+    "kind": "method"
+  },
+  {
+    "name": "setStatus",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatTransaction.java",
+    "kind": "method"
+  },
+  {
+    "name": "addData",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatTransaction.java",
+    "kind": "method"
+  },
+  {
+    "name": "complete",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/cat/CatTransaction.java",
+    "kind": "method"
+  },
+  {
+    "name": "DefaultMessageProducerManager",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/DefaultMessageProducerManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProducer",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/DefaultMessageProducerManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "logError",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/NullMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logEvent",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/NullMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "newTransaction",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/NullMessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProducer",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/NullMessageProducerManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "setStatus",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/NullTransaction.java",
+    "kind": "method"
+  },
+  {
+    "name": "addData",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/NullTransaction.java",
+    "kind": "method"
+  },
+  {
+    "name": "complete",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/internals/NullTransaction.java",
+    "kind": "method"
+  },
+  {
+    "name": "logMetricsForCount",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/spi/MessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/spi/MessageProducer.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/spi/MessageProducerManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProducer",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/Tracer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logError",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/Tracer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logEvent",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/Tracer.java",
+    "kind": "method"
+  },
+  {
+    "name": "logMetricsForCount",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/Tracer.java",
+    "kind": "method"
+  },
+  {
+    "name": "newTransaction",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/apollo/tracer/Tracer.java",
+    "kind": "method"
+  },
+  {
+    "name": "getManager",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/Foundation.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/Foundation.java",
+    "kind": "method"
+  },
+  {
+    "name": "net",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/Foundation.java",
+    "kind": "method"
+  },
+  {
+    "name": "server",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/Foundation.java",
+    "kind": "method"
+  },
+  {
+    "name": "app",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/Foundation.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/DefaultProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "register",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/DefaultProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "provider",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/DefaultProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/DefaultProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/DefaultProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/BOMInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "BOMInputStream",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/BOMInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "compare",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/BOMInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "find",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/BOMInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "matches",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/BOMInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "mark",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/BOMInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "ByteOrderMark",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCharsetName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "length",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "get",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "getBytes",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "equals",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "hashCode",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ByteOrderMark.java",
+    "kind": "method"
+  },
+  {
+    "name": "ProxyInputStream",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ProxyInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "mark",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ProxyInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "markSupported",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/io/ProxyInputStream.java",
+    "kind": "method"
+  },
+  {
+    "name": "findValidateIp",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NetworkInterfaceManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLocalHostAddress",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NetworkInterfaceManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getLocalHostName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NetworkInterfaceManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NetworkInterfaceManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "load",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NetworkInterfaceManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NullProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "provider",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NullProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/NullProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloLabel",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAccessKeySecret",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "isAppIdSet",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initAppId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initAppLabel",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initAccessKey",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initDeprecatedAccessKey",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultNetworkProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultNetworkProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getHostAddress",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultNetworkProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getHostName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultNetworkProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultNetworkProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultNetworkProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getServerPropertiesPath",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getCustomizedServerPropertiesPath",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDataCenter",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "isDataCenterSet",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getEnvType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "isEnvTypeSet",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initEnvType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initDataCenter",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/DefaultServerProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getProperty",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAppId",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getApolloLabel",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAccessKeySecret",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "isAppIdSet",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getEnvType",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "isEnvTypeSet",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getDataCenter",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "isDataCenterSet",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getHostAddress",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "getHostName",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "toString",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/provider/NullProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadFirst",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/ServiceBootstrap.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadAll",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/ServiceBootstrap.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadAllOrdered",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/ServiceBootstrap.java",
+    "kind": "method"
+  },
+  {
+    "name": "loadPrimary",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/ServiceBootstrap.java",
+    "kind": "method"
+  },
+  {
+    "name": "isBlank",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/Utils.java",
+    "kind": "method"
+  },
+  {
+    "name": "isOSWindows",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/internals/Utils.java",
+    "kind": "method"
+  },
+  {
+    "name": "getAccessKeySecret",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/spi/provider/ApplicationProvider.java",
+    "kind": "method"
+  },
+  {
+    "name": "initialize",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/spi/ProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "getOrder",
+    "file": "reference/java/apollo-core-sources/com/ctrip/framework/foundation/spi/ProviderManager.java",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "src/secret.ts",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "src/watch.ts",
+    "kind": "method"
+  },
+  {
+    "name": "stop",
+    "file": "src/watch.ts",
+    "kind": "method"
+  },
+  {
+    "name": "warnings",
+    "file": "src/watch.ts",
+    "kind": "method"
+  },
+  {
+    "name": "makeTempDir",
+    "file": "test/cache.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "sampleContent",
+    "file": "test/cache.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/client.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "baseConfig",
+    "file": "test/client.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "makeTempDir",
+    "file": "test/compat.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/discovery.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/drop-in.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "surface",
+    "file": "test/drop-in.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/equivalence.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "fullBaseConfig",
+    "file": "test/equivalence.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "pathWithQueryOf",
+    "file": "test/equivalence.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "formula",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "function",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "parseNotificationsQuery",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "close",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "if",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "verifySignatureHeaders",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "defaultDecide",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "repeats",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "abortedRequests",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "hold",
+    "file": "test/helpers/mock-server.js",
+    "kind": "method"
+  },
+  {
+    "name": "os_networkInterfaces_replace",
+    "file": "test/local-ip.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "resolveNpmCli",
+    "file": "test/package.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "readPackManifest",
+    "file": "test/package.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "withEnv",
+    "file": "test/secret.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "writeTempProperties",
+    "file": "test/secret.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/watch.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "makeTempDir",
+    "file": "test/watch.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "teardown",
+    "file": "test/watch.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "poll",
+    "file": "test/watch.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "waitFor",
+    "file": "test/watch.test.js",
+    "kind": "method"
+  },
+  {
+    "name": "it",
+    "file": "test/watch.test.js",
+    "kind": "method"
+  }
+]

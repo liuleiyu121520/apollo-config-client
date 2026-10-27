@@ -1,0 +1,427 @@
+[
+  {
+    "name": "computeIsolationKey",
+    "file": "src/cache.ts",
+    "kind": "function"
+  },
+  {
+    "name": "defaultCachePath",
+    "file": "src/cache.ts",
+    "kind": "function"
+  },
+  {
+    "name": "loadConfigCache",
+    "file": "src/cache.ts",
+    "kind": "function"
+  },
+  {
+    "name": "writeConfigCacheAtomic",
+    "file": "src/cache.ts",
+    "kind": "function"
+  },
+  {
+    "name": "normalizeBase",
+    "file": "src/cache.ts",
+    "kind": "function"
+  },
+  {
+    "name": "assertRequiredOptions",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "normalizeNamespaces",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "joinQuery",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "resolveEffectiveIp",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "resolveBaseUrl",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "buildSkipCacheUrl",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "buildFromCacheUrl",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "resolveSecret",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "buildRequestHeaders",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "throwHttpStatusError",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "parseJsonBody",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "mergeFlatConfigurations",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "fetchNamespace",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "invalidateDiscoveryOnNetworkFailure",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "queryConfig",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "remoteConfigServiceSkipCache",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "remoteConfigServiceFromCache",
+    "file": "src/client.ts",
+    "kind": "function"
+  },
+  {
+    "name": "toJSON",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "itemsPick",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "mergeConfig",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "getAllConfigFromApolloUri",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "remoteConfigService",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "remoteConfigServiceSikpCache",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "createEnvFile",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "setEnv",
+    "file": "src/compat.ts",
+    "kind": "function"
+  },
+  {
+    "name": "normalizeServiceUrl",
+    "file": "src/discovery.ts",
+    "kind": "function"
+  },
+  {
+    "name": "normalizeBase",
+    "file": "src/discovery.ts",
+    "kind": "function"
+  },
+  {
+    "name": "memoKey",
+    "file": "src/discovery.ts",
+    "kind": "function"
+  },
+  {
+    "name": "invalidateDiscoveryCache",
+    "file": "src/discovery.ts",
+    "kind": "function"
+  },
+  {
+    "name": "toApolloError",
+    "file": "src/discovery.ts",
+    "kind": "function"
+  },
+  {
+    "name": "resolveConfigServiceBaseUrl",
+    "file": "src/discovery.ts",
+    "kind": "function"
+  },
+  {
+    "name": "httpGet",
+    "file": "src/http.ts",
+    "kind": "function"
+  },
+  {
+    "name": "settleWith",
+    "file": "src/http.ts",
+    "kind": "arrow-function"
+  },
+  {
+    "name": "detectLocalIpv4",
+    "file": "src/local-ip.ts",
+    "kind": "function"
+  },
+  {
+    "name": "parseKeyValueText",
+    "file": "src/secret.ts",
+    "kind": "function"
+  },
+  {
+    "name": "readPropertiesFile",
+    "file": "src/secret.ts",
+    "kind": "function"
+  },
+  {
+    "name": "resolveAccessKeySecret",
+    "file": "src/secret.ts",
+    "kind": "function"
+  },
+  {
+    "name": "signature",
+    "file": "src/signature.ts",
+    "kind": "function"
+  },
+  {
+    "name": "buildHttpHeaders",
+    "file": "src/signature.ts",
+    "kind": "function"
+  },
+  {
+    "name": "url2PathWithQuery",
+    "file": "src/signature.ts",
+    "kind": "function"
+  },
+  {
+    "name": "positiveIntOr",
+    "file": "src/watch.ts",
+    "kind": "function"
+  },
+  {
+    "name": "hasOwn",
+    "file": "src/watch.ts",
+    "kind": "function"
+  },
+  {
+    "name": "copyOwnData",
+    "file": "src/watch.ts",
+    "kind": "function"
+  },
+  {
+    "name": "cloneConfigurations",
+    "file": "src/watch.ts",
+    "kind": "function"
+  },
+  {
+    "name": "createApolloWatcher",
+    "file": "src/watch.ts",
+    "kind": "function"
+  },
+  {
+    "name": "makeTempDir",
+    "file": "test/cache.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "sampleContent",
+    "file": "test/cache.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/client.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "baseConfig",
+    "file": "test/client.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "sleep",
+    "file": "test/client.test.js",
+    "kind": "arrow-function"
+  },
+  {
+    "name": "bodyFor",
+    "file": "test/client.test.js",
+    "kind": "arrow-function"
+  },
+  {
+    "name": "makeTempDir",
+    "file": "test/compat.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/discovery.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "sleep",
+    "file": "test/discovery.test.js",
+    "kind": "arrow-function"
+  },
+  {
+    "name": "names",
+    "file": "test/drop-in.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/drop-in.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/equivalence.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "fullBaseConfig",
+    "file": "test/equivalence.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "pathWithQueryOf",
+    "file": "test/equivalence.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "computeApolloSignature",
+    "file": "test/helpers/mock-server.js",
+    "kind": "function"
+  },
+  {
+    "name": "stubNetworkInterfaces",
+    "file": "test/helpers/mock-server.js",
+    "kind": "function"
+  },
+  {
+    "name": "parseNotificationsQuery",
+    "file": "test/helpers/mock-server.js",
+    "kind": "function"
+  },
+  {
+    "name": "createApolloMockServer",
+    "file": "test/helpers/mock-server.js",
+    "kind": "function"
+  },
+  {
+    "name": "schedule",
+    "file": "test/helpers/mock-server.js",
+    "kind": "function"
+  },
+  {
+    "name": "verifySignatureHeaders",
+    "file": "test/helpers/mock-server.js",
+    "kind": "function"
+  },
+  {
+    "name": "defaultDecide",
+    "file": "test/helpers/mock-server.js",
+    "kind": "function"
+  },
+  {
+    "name": "respond",
+    "file": "test/helpers/mock-server.js",
+    "kind": "arrow-function"
+  },
+  {
+    "name": "os_networkInterfaces_replace",
+    "file": "test/local-ip.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "resolveNpmCli",
+    "file": "test/package.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "readPackManifest",
+    "file": "test/package.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "withEnv",
+    "file": "test/secret.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "writeTempProperties",
+    "file": "test/secret.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "withoutSecretEnv",
+    "file": "test/watch.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "makeTempDir",
+    "file": "test/watch.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "teardown",
+    "file": "test/watch.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "nthNotificationsPayload",
+    "file": "test/watch.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "waitFor",
+    "file": "test/watch.test.js",
+    "kind": "function"
+  },
+  {
+    "name": "sleep",
+    "file": "test/watch.test.js",
+    "kind": "arrow-function"
+  },
+  {
+    "name": "assertSignature",
+    "file": "test/watch.test.js",
+    "kind": "arrow-function"
+  },
+  {
+    "name": "onUnhandled",
+    "file": "test/watch.test.js",
+    "kind": "arrow-function"
+  }
+]

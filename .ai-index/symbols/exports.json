@@ -1,0 +1,387 @@
+[
+  {
+    "name": "to",
+    "file": "reference/java/apollo-client-sources/com/ctrip/framework/apollo/monitor/internal/listener/ApolloClientMonitorEventListener.java",
+    "kind": "export"
+  },
+  {
+    "name": "period",
+    "file": "reference/java/apollo-client-sources/META-INF/additional-spring-configuration-metadata.json",
+    "kind": "export"
+  },
+  {
+    "name": "DEFAULT_CACHE_DIR_NAME",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "CacheNamespaceEntry",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "CacheFileContent",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "DefaultCachePathInput",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "computeIsolationKey",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "defaultCachePath",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "loadConfigCache",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "writeConfigCacheAtomic",
+    "file": "src/cache.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloConfig",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloClientOptions",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "QueryConfigOptions",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "QueryNotModified",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "assertRequiredOptions",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "normalizeNamespaces",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "joinQuery",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "resolveEffectiveIp",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "buildSkipCacheUrl",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "buildFromCacheUrl",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "buildRequestHeaders",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "throwHttpStatusError",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "parseJsonBody",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "mergeFlatConfigurations",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "FetchNamespaceOptions",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/client.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloOpenApiOptions",
+    "file": "src/compat.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/compat.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/compat.ts",
+    "kind": "export"
+  },
+  {
+    "name": "createEnvFile",
+    "file": "src/compat.ts",
+    "kind": "export"
+  },
+  {
+    "name": "setEnv",
+    "file": "src/compat.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ResolveConfigServiceInput",
+    "file": "src/discovery.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ResolveConfigServiceOptions",
+    "file": "src/discovery.ts",
+    "kind": "export"
+  },
+  {
+    "name": "invalidateDiscoveryCache",
+    "file": "src/discovery.ts",
+    "kind": "export"
+  },
+  {
+    "name": "async",
+    "file": "src/discovery.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloError",
+    "file": "src/errors.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloUnauthorizedError",
+    "file": "src/errors.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloHttpError",
+    "file": "src/errors.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloNetworkError",
+    "file": "src/errors.ts",
+    "kind": "export"
+  },
+  {
+    "name": "HttpRequestBodyOptions",
+    "file": "src/http.ts",
+    "kind": "export"
+  },
+  {
+    "name": "HttpResult",
+    "file": "src/http.ts",
+    "kind": "export"
+  },
+  {
+    "name": "httpGet",
+    "file": "src/http.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "src/index.ts",
+    "kind": "export"
+  },
+  {
+    "name": "detectLocalIpv4",
+    "file": "src/local-ip.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ResolveAccessKeySecretInput",
+    "file": "src/secret.ts",
+    "kind": "export"
+  },
+  {
+    "name": "parseKeyValueText",
+    "file": "src/secret.ts",
+    "kind": "export"
+  },
+  {
+    "name": "resolveAccessKeySecret",
+    "file": "src/secret.ts",
+    "kind": "export"
+  },
+  {
+    "name": "signature",
+    "file": "src/signature.ts",
+    "kind": "export"
+  },
+  {
+    "name": "buildHttpHeaders",
+    "file": "src/signature.ts",
+    "kind": "export"
+  },
+  {
+    "name": "url2PathWithQuery",
+    "file": "src/signature.ts",
+    "kind": "export"
+  },
+  {
+    "name": "WatcherChangeEvent",
+    "file": "src/watch.ts",
+    "kind": "export"
+  },
+  {
+    "name": "WatcherCacheLoadedEvent",
+    "file": "src/watch.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloWatcherOptions",
+    "file": "src/watch.ts",
+    "kind": "export"
+  },
+  {
+    "name": "ApolloWatcher",
+    "file": "src/watch.ts",
+    "kind": "export"
+  },
+  {
+    "name": "createApolloWatcher",
+    "file": "src/watch.ts",
+    "kind": "export"
+  },
+  {
+    "name": "default/anonymous",
+    "file": "test/discovery.test.js",
+    "kind": "export"
+  },
+  {
+    "name": "but",
+    "file": "test/secret.test.js",
+    "kind": "export"
+  }
+]

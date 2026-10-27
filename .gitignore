@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+test/tmp/
+.e2e-evidence/
+docs/software-company/
